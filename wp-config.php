@@ -26,7 +26,7 @@ define('DB_NAME', 'MySQL_2193_unleyroad');
 define('DB_USER', 'itadmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', '16UnleyroadTraders');
+define('DB_PASSWORD', 'FineFoods128');
 
 /** MySQL hostname */
 define('DB_HOST', 'my01.everleap.com');
